@@ -1,0 +1,18 @@
+﻿  App1.cpp
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\App1.cpp(459,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\App1.cpp(459,53): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\App1.cpp(838,72): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\App1.cpp(886,48): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\App1.cpp(886,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\App1.cpp(888,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\App1.cpp(888,18): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\App1.cpp(923,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\App1.cpp(924,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\App1.cpp(925,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\App1.cpp(925,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Main.cpp
+  Generating Code...
+DXFramework.lib(WICTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(WICTextureLoader.obj)' or at 'D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Debug\DirectXTK.pdb'; linking object as if no debug info
+DXFramework.lib(pch.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(pch.obj)' or at 'D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Debug\DirectXTK.pdb'; linking object as if no debug info
+DXFramework.lib(DDSTextureLoader.obj) : warning LNK4099: PDB 'DirectXTK.pdb' was not found with 'DXFramework.lib(DDSTextureLoader.obj)' or at 'D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Debug\DirectXTK.pdb'; linking object as if no debug info
+  Coursework.vcxproj -> D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Debug\Coursework.exe

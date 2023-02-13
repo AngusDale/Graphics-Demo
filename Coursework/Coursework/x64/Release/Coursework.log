@@ -1,0 +1,74 @@
+﻿  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\bloomMerge_ps.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\bloomMerge_vs.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\bloomThreshold_ps.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\bloomThreshold_vs.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\depth_ps.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\depth_vs.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\horizontalBlur_ps.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\horizontalBlur_vs.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\light_ps.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\light_vs.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\manipulationDepth_ps.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\manipulationDepth_vs.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\manipulationGeometry_ds.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\manipulationGeometry_gs.cso
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\shaders\manipulationGeometry_hs.hlsl(165,13-27): warning X3550: array reference cannot be used as an l-value; not natively addressable, forcing loop to unroll
+  
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\manipulationGeometry_hs.cso
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\shaders\manipulationGeometry_ps.hlsl(69,13-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\shaders\manipulationGeometry_ps.hlsl(165,51-71): warning X3550: sampler array index must be a literal expression, forcing loop to unroll
+  
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\manipulationGeometry_ps.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\manipulationGeometry_vs.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\manipulationTessDepth_ds.cso
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\shaders\manipulationTessDepth_hs.hlsl(156,13-27): warning X3550: array reference cannot be used as an l-value; not natively addressable, forcing loop to unroll
+  
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\manipulationTessDepth_hs.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\manipulationTessDepth_ps.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\manipulationTessDepth_vs.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\manipulationTess_ds.cso
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\shaders\manipulationTess_hs.hlsl(161,13-27): warning X3550: array reference cannot be used as an l-value; not natively addressable, forcing loop to unroll
+  
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\manipulationTess_hs.cso
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\shaders\manipulationTess_ps.hlsl(72,13-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\shaders\manipulationTess_ps.hlsl(172,51-71): warning X3550: sampler array index must be a literal expression, forcing loop to unroll
+  
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\manipulationTess_ps.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\manipulationTess_vs.cso
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\shaders\manipulation_ps.hlsl(71,13-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\shaders\manipulation_ps.hlsl(148,41-61): warning X3550: sampler array index must be a literal expression, forcing loop to unroll
+  
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\manipulation_ps.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\manipulation_vs.cso
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\shaders\shadow_ps.hlsl(69,13-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\shaders\shadow_ps.hlsl(165,51-71): warning X3550: sampler array index must be a literal expression, forcing loop to unroll
+  
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\shadow_ps.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\shadow_vs.cso
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\shaders\tessellationDepth_ds.hlsl(40,12-70): warning X3206: implicit truncation of vector type
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\shaders\tessellationDepth_ds.hlsl(41,12-70): warning X3206: implicit truncation of vector type
+  
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\tessellationDepth_ds.cso
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\shaders\tessellationDepth_hs.hlsl(59,9-23): warning X3550: array reference cannot be used as an l-value; not natively addressable, forcing loop to unroll
+  
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\tessellationDepth_hs.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\tessellationDepth_ps.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\tessellationDepth_vs.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\tessellation_ds.cso
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\shaders\tessellation_hs.hlsl(63,9-23): warning X3550: array reference cannot be used as an l-value; not natively addressable, forcing loop to unroll
+  
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\tessellation_hs.cso
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\shaders\tessellation_ps.hlsl(68,13-40): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\shaders\tessellation_ps.hlsl(147,41-61): warning X3550: sampler array index must be a literal expression, forcing loop to unroll
+  
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\tessellation_ps.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\tessellation_vs.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\texture_ps.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\texture_vs.cso
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\Coursework\shaders\toneMap_ps.hlsl(39,18-35): warning X3571: pow(f, e) will not work for negative f, use abs(f) or conditionally handle negative values if you expect them
+  
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\toneMap_ps.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\toneMap_vs.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\verticalBlur_ps.cso
+  compilation object save succeeded; see D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\verticalBlur_vs.cso
+  Coursework.vcxproj -> D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\x64\Release\Coursework.exe

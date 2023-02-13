@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Shader Classes">
+      <UniqueIdentifier>{a64176c1-d683-472b-972b-7abf37e8d091}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shader Classes">
+      <UniqueIdentifier>{37d20328-8c77-47a7-95ac-4cdb5a022781}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Vertex Manipulation">
+      <UniqueIdentifier>{0bc85ddc-bb9c-4608-9d78-105ad76c8a15}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Depth Shader">
+      <UniqueIdentifier>{ac038324-3067-4cdb-b80d-a1cc55ba70b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Shadow Shader">
+      <UniqueIdentifier>{e1b09c16-970c-4c29-809e-743efd114d13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Texture">
+      <UniqueIdentifier>{a7176147-870e-4870-bbea-fad3a98da321}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shader Classes\Post Processing">
+      <UniqueIdentifier>{04161b5a-3dd9-4b67-943d-7d52f862ad09}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Post Processing">
+      <UniqueIdentifier>{cd06f433-14c0-45fa-9726-41cb71bef757}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Shader Classes\Post Processing">
+      <UniqueIdentifier>{ff34e697-2969-4751-ad35-8165df89f640}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Geometry Shader">
+      <UniqueIdentifier>{fd70e4d4-808b-4386-89f1-be1f73a0876f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Shader Classes\Unused">
+      <UniqueIdentifier>{ecd3079e-f8a7-4327-9703-663370902711}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Shader Classes\Unused">
+      <UniqueIdentifier>{81e6b621-ac5b-4e7b-a4ff-59abc932ee59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Unused">
+      <UniqueIdentifier>{9610f901-a9ad-4f5e-bbe4-adaafd9d13fc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Unused\Light Shader">
+      <UniqueIdentifier>{606383ba-d0d6-4f51-9179-0f8b0fc0eecf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resource Files\Unused\Tessellation">
+      <UniqueIdentifier>{2af81009-6610-4334-a3fb-c2516ad8ae94}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="App1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DepthShader.cpp">
+      <Filter>Source Files\Shader Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="ShadowShader.cpp">
+      <Filter>Source Files\Shader Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureShader.cpp">
+      <Filter>Source Files\Shader Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="HorizontalBlurShader.cpp">
+      <Filter>Source Files\Shader Classes\Post Processing</Filter>
+    </ClCompile>
+    <ClCompile Include="VerticalBlurShader.cpp">
+      <Filter>Source Files\Shader Classes\Post Processing</Filter>
+    </ClCompile>
+    <ClCompile Include="BloomThresholdShader.cpp">
+      <Filter>Source Files\Shader Classes\Post Processing</Filter>
+    </ClCompile>
+    <ClCompile Include="BloomMergeShader.cpp">
+      <Filter>Source Files\Shader Classes\Post Processing</Filter>
+    </ClCompile>
+    <ClCompile Include="ToneMapShader.cpp">
+      <Filter>Source Files\Shader Classes\Post Processing</Filter>
+    </ClCompile>
+    <ClCompile Include="TessellationShader.cpp">
+      <Filter>Source Files\Shader Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="TessellatedPlaneMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="TessellationDepthShader.cpp">
+      <Filter>Source Files\Shader Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="ManipulationTessDepthShader.cpp">
+      <Filter>Source Files\Shader Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="ManipulationTessShader.cpp">
+      <Filter>Source Files\Shader Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="ManipulationGeometryShader.cpp">
+      <Filter>Source Files\Shader Classes</Filter>
+    </ClCompile>
+    <ClCompile Include="LightShader.cpp">
+      <Filter>Source Files\Shader Classes\Unused</Filter>
+    </ClCompile>
+    <ClCompile Include="ManipulationShader.cpp">
+      <Filter>Source Files\Shader Classes\Unused</Filter>
+    </ClCompile>
+    <ClCompile Include="ManipulationDepthShader.cpp">
+      <Filter>Source Files\Shader Classes\Unused</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="App1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DepthShader.h">
+      <Filter>Header Files\Shader Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="ShadowShader.h">
+      <Filter>Header Files\Shader Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureShader.h">
+      <Filter>Header Files\Shader Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="HorizontalBlurShader.h">
+      <Filter>Header Files\Shader Classes\Post Processing</Filter>
+    </ClInclude>
+    <ClInclude Include="VerticalBlurShader.h">
+      <Filter>Header Files\Shader Classes\Post Processing</Filter>
+    </ClInclude>
+    <ClInclude Include="BloomThresholdShader.h">
+      <Filter>Header Files\Shader Classes\Post Processing</Filter>
+    </ClInclude>
+    <ClInclude Include="BloomMergeShader.h">
+      <Filter>Header Files\Shader Classes\Post Processing</Filter>
+    </ClInclude>
+    <ClInclude Include="ToneMapShader.h">
+      <Filter>Header Files\Shader Classes\Post Processing</Filter>
+    </ClInclude>
+    <ClInclude Include="TessellatedPlaneMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TessellationShader.h">
+      <Filter>Header Files\Shader Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="TessellationDepthShader.h">
+      <Filter>Header Files\Shader Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="ManipulationTessDepthShader.h">
+      <Filter>Header Files\Shader Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="ManipulationTessShader.h">
+      <Filter>Header Files\Shader Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="ManipulationGeometryShader.h">
+      <Filter>Header Files\Shader Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="ManipulationShader.h">
+      <Filter>Header Files\Shader Classes\Unused</Filter>
+    </ClInclude>
+    <ClInclude Include="ManipulationDepthShader.h">
+      <Filter>Header Files\Shader Classes\Unused</Filter>
+    </ClInclude>
+    <ClInclude Include="LightShader.h">
+      <Filter>Header Files\Shader Classes\Unused</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="shaders\light_ps.hlsl">
+      <Filter>Resource Files\Unused\Light Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\light_vs.hlsl">
+      <Filter>Resource Files\Unused\Light Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\depth_vs.hlsl">
+      <Filter>Resource Files\Depth Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\depth_ps.hlsl">
+      <Filter>Resource Files\Depth Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\shadow_ps.hlsl">
+      <Filter>Resource Files\Shadow Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\shadow_vs.hlsl">
+      <Filter>Resource Files\Shadow Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\texture_ps.hlsl">
+      <Filter>Resource Files\Texture</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\texture_vs.hlsl">
+      <Filter>Resource Files\Texture</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\horizontalBlur_ps.hlsl">
+      <Filter>Resource Files\Post Processing</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\horizontalBlur_vs.hlsl">
+      <Filter>Resource Files\Post Processing</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\verticalBlur_ps.hlsl">
+      <Filter>Resource Files\Post Processing</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\verticalBlur_vs.hlsl">
+      <Filter>Resource Files\Post Processing</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\bloomThreshold_ps.hlsl">
+      <Filter>Resource Files\Post Processing</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\bloomThreshold_vs.hlsl">
+      <Filter>Resource Files\Post Processing</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\bloomMerge_ps.hlsl">
+      <Filter>Resource Files\Post Processing</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\bloomMerge_vs.hlsl">
+      <Filter>Resource Files\Post Processing</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\tessellation_ds.hlsl">
+      <Filter>Resource Files\Unused\Tessellation</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\tessellation_vs.hlsl">
+      <Filter>Resource Files\Unused\Tessellation</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\tessellation_ps.hlsl">
+      <Filter>Resource Files\Unused\Tessellation</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\tessellation_hs.hlsl">
+      <Filter>Resource Files\Unused\Tessellation</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\toneMap_ps.hlsl">
+      <Filter>Resource Files\Post Processing</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\toneMap_vs.hlsl">
+      <Filter>Resource Files\Post Processing</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\manipulationTess_ds.hlsl">
+      <Filter>Resource Files\Vertex Manipulation</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\manipulationTess_hs.hlsl">
+      <Filter>Resource Files\Vertex Manipulation</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\manipulationTess_ps.hlsl">
+      <Filter>Resource Files\Vertex Manipulation</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\manipulationTess_vs.hlsl">
+      <Filter>Resource Files\Vertex Manipulation</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\manipulationTessDepth_ds.hlsl">
+      <Filter>Resource Files\Depth Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\manipulationTessDepth_hs.hlsl">
+      <Filter>Resource Files\Depth Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\manipulationTessDepth_ps.hlsl">
+      <Filter>Resource Files\Depth Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\manipulationTessDepth_vs.hlsl">
+      <Filter>Resource Files\Depth Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\manipulationGeometry_ds.hlsl">
+      <Filter>Resource Files\Geometry Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\manipulationGeometry_hs.hlsl">
+      <Filter>Resource Files\Geometry Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\manipulationGeometry_ps.hlsl">
+      <Filter>Resource Files\Geometry Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\manipulationGeometry_vs.hlsl">
+      <Filter>Resource Files\Geometry Shader</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\tessellationDepth_ds.hlsl">
+      <Filter>Resource Files\Unused</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\tessellationDepth_hs.hlsl">
+      <Filter>Resource Files\Unused</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\tessellationDepth_ps.hlsl">
+      <Filter>Resource Files\Unused</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\tessellationDepth_vs.hlsl">
+      <Filter>Resource Files\Unused</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\manipulationDepth_ps.hlsl">
+      <Filter>Resource Files\Unused</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\manipulationDepth_vs.hlsl">
+      <Filter>Resource Files\Unused</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\manipulation_ps.hlsl">
+      <Filter>Resource Files\Unused</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\manipulation_vs.hlsl">
+      <Filter>Resource Files\Unused</Filter>
+    </FxCompile>
+    <FxCompile Include="shaders\manipulationGeometry_gs.hlsl">
+      <Filter>Resource Files\Geometry Shader</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\lib\Debug\DXFramework.pdb
+D:\CGAD_YEAR_3_SEMESTER_1\CMP301\Coursework\cmp301_coursework-AngusDale\Coursework\DXFramework\x64\Debug\DXFramework.pdb
